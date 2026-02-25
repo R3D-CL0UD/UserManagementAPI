@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dxf1oz4xdQs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RED CLOUD\\source\\repos\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\scalar.aspnetcore\\2.12.47\\scalar.aspnetcore.2.12.47.nupkg.sha512"
+  ],
+  "logs": []
+}
