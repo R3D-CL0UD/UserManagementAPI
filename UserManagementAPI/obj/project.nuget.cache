@@ -1,12 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "dxf1oz4xdQs=",
+  "dgSpecHash": "TCba2NqGd8o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\RED CLOUD\\source\\repos\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.csproj",
+  "projectFilePath": "C:\\Users\\RED CLOUD\\Desktop\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512",
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.3\\microsoft.aspnetcore.authentication.jwtbearer.10.0.3.nupkg.sha512",
     "C:\\Users\\RED CLOUD\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.3\\microsoft.entityframeworkcore.10.0.3.nupkg.sha512",
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.3\\microsoft.entityframeworkcore.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.3\\microsoft.entityframeworkcore.analyzers.10.0.3.nupkg.sha512",
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.3\\microsoft.entityframeworkcore.inmemory.10.0.3.nupkg.sha512",
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.0.1\\microsoft.identitymodel.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.0.1\\microsoft.identitymodel.jsonwebtokens.8.0.1.nupkg.sha512",
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\microsoft.identitymodel.logging\\8.0.1\\microsoft.identitymodel.logging.8.0.1.nupkg.sha512",
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.0.1\\microsoft.identitymodel.protocols.8.0.1.nupkg.sha512",
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.0.1\\microsoft.identitymodel.protocols.openidconnect.8.0.1.nupkg.sha512",
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.0.1\\microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
     "C:\\Users\\RED CLOUD\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
-    "C:\\Users\\RED CLOUD\\.nuget\\packages\\scalar.aspnetcore\\2.12.47\\scalar.aspnetcore.2.12.47.nupkg.sha512"
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\scalar.aspnetcore\\2.12.47\\scalar.aspnetcore.2.12.47.nupkg.sha512",
+    "C:\\Users\\RED CLOUD\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.0.1\\system.identitymodel.tokens.jwt.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }
